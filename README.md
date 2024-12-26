@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/44190023/205405064-5aa93cb8-34b2-4407-9231-b3e292a548a4.gif)
 
-# Hi there, This is Robel 
+# Hi there, This is Abel 
 
 - I Live in Addis Ababa, Ethiopia.
 - I Am `Full stack developer` `Freelancer` `Workholic`
