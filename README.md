@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/44190023/205405064-5aa93cb8-34b2-4407-9231-b3e292a548a4.gif)
 
-# Hi, I'm Biruk
+# Hi, I'm Abel
 
 - Based in Addis Ababa, Ethiopia
 - Full Stack Engineer · Freelancer · Builder
